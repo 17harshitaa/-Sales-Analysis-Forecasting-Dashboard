@@ -97,7 +97,7 @@ Return Rate = COUNT(Sales[Returns]) / COUNT(Sales[Order ID])
 2. Load the dataset by navigating to File > Open and selecting the Power BI file.
 3. Explore the dashboard using filters and interactive elements.
 4. Use the forecasting feature to predict future sales trends.
-5. Customize the visuals based on your business requirements.
+5. Customize the visuals based on your business requirements .
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
